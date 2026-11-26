@@ -4,3 +4,10 @@
 </p>
 
 Rockcam is a camera application for a Radxa Rock Pi 4C+ SBC and Raspberry Pi Camera V2 that allows user to snap photos and record videos with graphics manipulation.
+---
+To install, run:
+'''bash
+git clone https://github.com/miqeykaizen/rockcam.git
+cd rockcam
+sudo apt install ./build/rockcam_1.0.0_*.deb
+'''
