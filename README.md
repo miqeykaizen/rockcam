@@ -1,4 +1,4 @@
-# rockcam
+# Rockcam
 <p align="center">
   <img src="build/rockcam_1.0.0_arm64/usr/share/icons/hicolor/256x256/apps/rockcam.png" alt="Logo">
 </p>
