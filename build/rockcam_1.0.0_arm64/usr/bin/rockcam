@@ -1,0 +1,3 @@
+#!/bin/sh
+mkdir -p "$HOME/.cache"
+exec /usr/bin/python3 /opt/rockcam/rockcam.py "$@" >> "$HOME/.cache/rockcam.log" 2>&1

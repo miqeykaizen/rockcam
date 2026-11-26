@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=RockCam
+GenericName=Camera
+Comment=Live camera view, photo and video capture
+Exec=rockcam
+Icon=rockcam
+Terminal=false
+Categories=AudioVideo;Video;Graphics;
+StartupWMClass=rockcam
